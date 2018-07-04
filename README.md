@@ -11,18 +11,17 @@ Nama anggota kelompok:
 
 Fitur-fitur:
 
-1. Beranda/Home
+1. Beranda/Home<br>
   -Menampilkan keseluruhan isi dari Fresh Milk
-2. Profil
+2. Profil<br>
   -Manampilkan tentang Freshmilk
 3. Login
-4. Produk
+4. Produk<br>
   -Menampilkan berbagai macam produk yang  dijual Fresh Milk
-5. Distributor
-  -Menampikan daftar distributor yang mejadi bagian dari Fresh Milk
+5. Distributor<br>
+  -Menampikan daftar distributor yang mejadi bagian dari Fresh Milk<br>
   -Menampilkan daftar alamat dan nomor telfon dari distributor
-6. Peternak
+6. Peternak <br>
   -Menampilkan daftar peternak
 7. Live Chat
 8. FAQ
-9. 
