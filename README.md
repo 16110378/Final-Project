@@ -9,9 +9,11 @@ Nama anggota kelompok:
 4. Nur Ridho B (16.11.0373)
 5. Ahmad Hanjaya (16.11.0386)
 
-Fitur:
+Fitur-fitur:
 -Beranda/Home: halaman depan tampilan dari website ini
+-Login
 -Produk
 -Distributor
--Peternak susu
+-Peternak
+-Live Chat
 -
