@@ -11,9 +11,9 @@ Nama anggota kelompok:
 
 Fitur-fitur:
 
--Beranda/Home: halaman depan tampilan dari website ini
--Login
--Produk
--Distributor
--Peternak
--Live Chat
+1. Beranda/Home: halaman depan tampilan dari website ini
+2. Login
+3. Produk
+4. Distributor
+5. Peternak
+6. Live Chat
